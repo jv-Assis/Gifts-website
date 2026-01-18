@@ -10,7 +10,7 @@ const gifts = [
     { 
         id: 2, 
         name: 'Cabeceira e baú, cama de casal', 
-        image: 'Imagens/e45236485d48220b5103e6ae5cf262cc.jpg' 
+        image: 'images/e45236485d48220b5103e6ae5cf262cc.jpg' 
     },
 
     { 
